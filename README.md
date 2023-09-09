@@ -15,4 +15,6 @@ The code is articulated as follows:
 - PPI: proof-of-concept application of Prediction-Powered Inference with CAMx data.
 - utils: code for some figures.
 
+The necessary data can be found in the following google drive: 
+
 
