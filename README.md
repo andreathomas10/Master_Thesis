@@ -1,5 +1,5 @@
 # Master_Thesis
-This repo contains the cope for my Master Thesis: "Estimating the distribution of Organic Aerosol in Europe: with applications of Conformal Prediction".
+This repo contains the code for my Master Thesis: "Estimating the distribution of Organic Aerosol in Europe: with applications of Conformal Prediction".
 
 The code is articulated as follows:
 
