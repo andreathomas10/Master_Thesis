@@ -3,7 +3,7 @@ This repo contains the code for my Master Thesis: "Estimating the distribution o
 
 The code is articulated as follows:
 
-- EDA: Exploratory analysis of the available data and some map visualization.
+- EDA: Exploratory analysis of the available data, some map visualization and feature engineering of geo-spatial data.
 - CAMx Performance: Exploratory analysis of the performance of the CAMx simulator.
 - Predict Performance: Regression-Bias analysis.
 - Local Bias: Regression-Bias analysis performed at individual stations.
