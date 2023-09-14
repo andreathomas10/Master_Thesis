@@ -1,5 +1,5 @@
 # Master_Thesis
-This repo contains the code for my Master Thesis: "Estimating the distribution of Organic Aerosol in Europe: with applications of Conformal Prediction".
+This repo contains the code for my Master Thesis: "Estimating the Distribution of Organic Aerosol in Europe: With Applications of Conformal Prediction".
 
 The code is articulated as follows:
 
@@ -15,7 +15,6 @@ The code is articulated as follows:
 - CP at unseen locations: Conformal Prediction for DS at unseen locations.
 - PPI: proof-of-concept application of Prediction-Powered Inference with CAMx data.
 - utils: code for some figures.
-
-The necessary data can be found in the following google drive: 
+ 
 
 
