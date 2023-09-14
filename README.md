@@ -1,4 +1,4 @@
-# Master_Thesis
+# Master Thesis
 This repo contains the code for my Master Thesis: "Estimating the Distribution of Organic Aerosol in Europe: With Applications of Conformal Prediction".
 
 The code is articulated as follows:
