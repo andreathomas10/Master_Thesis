@@ -16,7 +16,8 @@ The code is articulated as follows:
 - PPI_CAMx: proof-of-concept application of Prediction-Powered Inference with CAMx data.
 - ppi: auxilary function for computing PPI in PPI_CAMx.
 - utils_ppi: auxilary function for plotting in PPI_CAMx.
-- utils: code for some figures.
+- down-boxplot: code for boxplots of down-scaling at seen locations.
+- utils_CP: code for some figures of Chapter 3 on Conformal Prediction.
  
 
 
