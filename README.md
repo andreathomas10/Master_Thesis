@@ -3,7 +3,7 @@ This repo contains the code for my Master Thesis: "Estimating the Distribution o
 
 The code is articulated as follows:
 
-- EDA: Exploratory analysis of the available data, some map visualization and feature engineering of geo-spatial data.
+- \textbf{EDA}: Exploratory analysis of the available data, some map visualization and feature engineering of geo-spatial data.
 - CAMx Performance: Exploratory analysis of the performance of the CAMx simulator.
 - Estimate_c: Estimation of conversion factor between OC and OA.
 - Predict Performance: Regression-Bias analysis.
