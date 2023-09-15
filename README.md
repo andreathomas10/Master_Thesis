@@ -14,8 +14,8 @@ The code is articulated as follows:
 - DS OA components: Statistical down-scaling of OA components at seen location with multi-output Random Forest.
 - CP at unseen locations: Conformal Prediction for DS at unseen locations.
 - PPI_CAMx: proof-of-concept application of Prediction-Powered Inference with CAMx data.
-- ppi: auxilary function for PPI_CAMx.
-- utils_ppi: auxilary function for PPI_CAMx.
+- ppi: auxilary function for computing PPI in PPI_CAMx.
+- utils_ppi: auxilary function for plotting in PPI_CAMx.
 - utils: code for some figures.
  
 
