@@ -5,7 +5,7 @@ The code is articulated as follows:
 
 - (1) EDA: Exploratory analysis of the available data, some map visualization and feature engineering of geo-spatial data.
 - (2) CAMx Performance: Exploratory analysis of the performance of the CAMx simulator.
-- Estimate_c: Estimation of conversion factor between OC and OA.
+- (2) Estimate_c: Estimation of conversion factor between OC and OA.
 - Predict Performance: Regression-Bias analysis.
 - Local Bias: Regression-Bias analysis performed at individual stations.
 - DS at seen locations: Statistical down-scaling of OA at seen location with ML-models.
