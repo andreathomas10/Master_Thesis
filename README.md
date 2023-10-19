@@ -1,11 +1,13 @@
 # Master Thesis
 This repo contains the code for my Master Thesis: "Estimating the Distribution of Organic Aerosol in Europe: With Applications of Conformal Prediction".
 
+Run first EDA to get data set "data_converted.csv".
+
 The code is articulated as follows:
 
-- (1) EDA: Exploratory analysis of the available data, some map visualization and feature engineering of geo-spatial data.
-- (2) CAMx Performance: Exploratory analysis of the performance of the CAMx simulator.
-- (2) Estimate_c: Estimation of conversion factor between OC and OA.
+- EDA: Exploratory analysis of the available data, some map visualization and feature engineering of geo-spatial data.
+- CAMx Performance: Exploratory analysis of the performance of the CAMx simulator.
+- Estimate_c: Estimation of conversion factor between OC and OA.
 - Predict Performance: Regression-Bias analysis.
 - Local Bias: Regression-Bias analysis performed at individual stations.
 - DS at seen locations: Statistical down-scaling of OA at seen location with ML-models.
